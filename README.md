@@ -1,8 +1,8 @@
 # Code challenges
 
-Publicly sourced code-challenges for DTB Tech & Data Hub!
+Publicly sourced code-challenges for tb.lx!
 
-Find more on [DTB TECH & DATA HUB Lisbon](https://techhublisbon.io/)
+Find more on [tb.lx website](https://tblx.io/)
 
 ![](img/tdh_lego_truck.jpg)
 
@@ -14,4 +14,4 @@ Find more on [DTB TECH & DATA HUB Lisbon](https://techhublisbon.io/)
 * Fullstack Developer [link](fullstack-challenges/readme.md)
 
 ### License
-This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) 
+This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE)
